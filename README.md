@@ -2,7 +2,7 @@
 
 Any inquiries or questions please direct them to support@devlabs.mx
 
-## Privacy Policy for TV Hub App
+## Privacy Policy
 
 At TV Hub, we take your privacy seriously. We are committed to maintaining the confidentiality and security of any information you provide us. This Privacy Policy outlines how we handle and protect your personal data when you use our TV tracking application.
 
