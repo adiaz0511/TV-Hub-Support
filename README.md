@@ -1,4 +1,4 @@
-# TV Hub Support
+# Episodic Support
 
 Any inquiries or questions please direct them to support@devlabs.mx
 
