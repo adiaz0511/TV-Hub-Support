@@ -45,7 +45,7 @@ Please note that this Privacy Policy applies solely to the Episodic app and does
 
 By using Episodic, you acknowledge and agree to the terms of this Privacy Policy. It is advised to review this policy periodically for any updates or changes.
 
-Last updated: May 15, 2023
+Last updated: August 12, 2023
 
 ## Episodic Subscriptions - Terms of Use
 
@@ -101,5 +101,5 @@ Thank you for choosing Episodic and subscribing to our premium features. By subs
 
 Please note that these Terms of Use are specific to Episodic's premium subscription services and do not cover the general use of the Episodic app.
 
-Last updated: May 17, 2023
+Last updated: August 12, 2023
 
